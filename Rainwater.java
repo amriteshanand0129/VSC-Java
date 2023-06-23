@@ -1,32 +1,32 @@
 class Rainwater {
     public static void main(String args[]){
-        int numbers[] = {4, 2, 0, 6, 3, 2, 5};
-        kadanes(numbers);
+        int heights[] = {4, 2, 0, 6, 3, 2, 5};
+        trappedRainwater(heights);
     }
-    public static void kadanes(int numbers[]){
-        int l = numbers.length;
-        int leftmax[]=new int[7];
-        int rightmax[]=new int[7];
-        leftmax[0]=numbers[0];
+    public static void trappedRainwater(int heights[]){
+        int l = heights.length;
+        int leftmax[]=new int[l];
+        int rightmax[]=new int[l];
+
+        // Assigning values of maximum left boundary for each bar
+        leftmax[0]=heights[0];
         for(int i=1;i<l;i++){
-            if(leftmax[i-1]>numbers[i])
-                leftmax[i]=leftmax[i-1];
-            else
-                leftmax[i]=numbers[i];
+            leftmax[i] = Math.max(heights[i], leftmax[i-1]);
         }
-        rightmax[l-1]=numbers[l-1];
+
+        // Assigning values of maximum right boundary for each bar
+        rightmax[l-1]=heights[l-1];
         for(int i=l-2;i>=0;i--){
-            if(rightmax[i+1]>numbers[i])
-                rightmax[i]=rightmax[i+1];
-            else
-                rightmax[i]=numbers[i];
+            rightmax[i] = Math.max(heights[i], rightmax[i+1]);
         }
-        int maxlevel, waterlevel, sum=0;
+
+        // Calculating maximum water that can be trapped above each bar
+        int waterlevel, trappedwater, sum=0;
         for(int i=0;i<l;i++){
-            maxlevel=Math.min(rightmax[i], leftmax[i]);
-            waterlevel = maxlevel-numbers[i];
-            System.out.println(waterlevel);
-            sum+=waterlevel;
-        }System.out.println(sum);
+            waterlevel = Math.min(rightmax[i], leftmax[i]);
+            trappedwater = waterlevel-heights[i];
+            System.out.println(trappedwater);
+            sum += trappedwater;
+        }System.out.println("Total rainwater that can be trapped: " + sum);
     }
 }
