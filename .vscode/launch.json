@@ -1,0 +1,163 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "StackJ",
+            "request": "launch",
+            "mainClass": "StackJ",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "practice",
+            "request": "launch",
+            "mainClass": "practice",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "StackL",
+            "request": "launch",
+            "mainClass": "StackL",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "StackA",
+            "request": "launch",
+            "mainClass": "StackA",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "StackB",
+            "request": "launch",
+            "mainClass": "StackB",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "LinkedList_Ques",
+            "request": "launch",
+            "mainClass": "LinkedList_Ques",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "DoubleLL",
+            "request": "launch",
+            "mainClass": "DoubleLL",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "LinkedList2",
+            "request": "launch",
+            "mainClass": "LinkedList2",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "LinkedList",
+            "request": "launch",
+            "mainClass": "LinkedList",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "PairSum",
+            "request": "launch",
+            "mainClass": "PairSum",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Spiralmatrix",
+            "request": "launch",
+            "mainClass": "Spiralmatrix",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Stocks",
+            "request": "launch",
+            "mainClass": "Stocks",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Rainwater",
+            "request": "launch",
+            "mainClass": "Rainwater",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Arraylist",
+            "request": "launch",
+            "mainClass": "Arraylist",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "lec_39_prac9",
+            "request": "launch",
+            "mainClass": "lec_39_prac9",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "NQueen",
+            "request": "launch",
+            "mainClass": "NQueen",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Backtracking",
+            "request": "launch",
+            "mainClass": "Backtracking",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Divide_and_Conquer_Ques",
+            "request": "launch",
+            "mainClass": "Divide_and_Conquer_Ques",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "RotatedArray",
+            "request": "launch",
+            "mainClass": "RotatedArray",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Divide_and_Conquer",
+            "request": "launch",
+            "mainClass": "Divide_and_Conquer",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Recursion_Ques",
+            "request": "launch",
+            "mainClass": "Recursion_Ques",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        }
+    ]
+}
