@@ -61,15 +61,15 @@ public class StackA {
         
         // Object 
         {
-            Stack S1 = new Stack();
-            S1.push(10);
-            S1.push(20);
-            S1.push(30);
+            // Stack S1 = new Stack();
+            // S1.push(10);
+            // S1.push(20);
+            // S1.push(30);
 
-            while(!S1.isEmpty()) {
-                System.out.println(S1.peek());
-                S1.pop();
-            }
+            // while(!S1.isEmpty()) {
+            //     System.out.println(S1.peek());
+            //     S1.pop();
+            // }
         }
 
         // Direct Access

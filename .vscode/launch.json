@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SelectionSort",
+            "request": "launch",
+            "mainClass": "SelectionSort",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Queue_Ques",
+            "request": "launch",
+            "mainClass": "Queue_Ques",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
             "name": "StackJ",
             "request": "launch",
             "mainClass": "StackJ",
