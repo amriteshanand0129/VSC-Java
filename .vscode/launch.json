@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Chocola",
+            "request": "launch",
+            "mainClass": "Chocola",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Job_Sequencing",
+            "request": "launch",
+            "mainClass": "Job_Sequencing",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Indian_Coin",
+            "request": "launch",
+            "mainClass": "Indian_Coin",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Max_Length_Chain_Pairs",
+            "request": "launch",
+            "mainClass": "Max_Length_Chain_Pairs",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Minimum_Absolute_Difference",
+            "request": "launch",
+            "mainClass": "Minimum_Absolute_Difference",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
             "name": "SelectionSort",
             "request": "launch",
             "mainClass": "SelectionSort",
