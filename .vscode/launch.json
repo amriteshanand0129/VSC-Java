@@ -6,6 +6,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Classroom_1",
+            "request": "launch",
+            "mainClass": "Classroom_1",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Classroom",
+            "request": "launch",
+            "mainClass": "Classroom",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Priority_Queue",
+            "request": "launch",
+            "mainClass": "Heap.Priority_Queue",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "AVL_Trees",
+            "request": "launch",
+            "mainClass": "AVL_Trees",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Binary_Search_Tree_2",
+            "request": "launch",
+            "mainClass": "Binary_Search_Tree_2",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Binary_Tree_4",
+            "request": "launch",
+            "mainClass": "Binary_Tree_4",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Binary_Tree_3",
+            "request": "launch",
+            "mainClass": "Binary_Tree_3",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Binary_Tree_2",
+            "request": "launch",
+            "mainClass": "Binary_Tree_2",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Binary_Search_Tree",
+            "request": "launch",
+            "mainClass": "Binary_Search_Tree",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "System_Class",
+            "request": "launch",
+            "mainClass": "System_Class",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Binary_Tree",
+            "request": "launch",
+            "mainClass": "Binary_Tree",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Build_Preorder",
+            "request": "launch",
+            "mainClass": "Build_Preorder",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
             "name": "Chocola",
             "request": "launch",
             "mainClass": "Chocola",
