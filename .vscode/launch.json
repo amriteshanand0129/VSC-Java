@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SevenSegment",
+            "request": "launch",
+            "mainClass": "SevenSegment",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Graph2",
+            "request": "launch",
+            "mainClass": "Graph.Graph2",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Graph1",
+            "request": "launch",
+            "mainClass": "Graph.Graph1",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Trie_5",
+            "request": "launch",
+            "mainClass": "Trie_5",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Trie_4",
+            "request": "launch",
+            "mainClass": "Trie_4",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Trie_3",
+            "request": "launch",
+            "mainClass": "Trie_3",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Trie_2",
+            "request": "launch",
+            "mainClass": "Trie_2",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Trie",
+            "request": "launch",
+            "mainClass": "Trie",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Hashing_2",
+            "request": "launch",
+            "mainClass": "Hashing_2",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Hashing_1",
+            "request": "launch",
+            "mainClass": "Hashing_1",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
             "name": "Classroom_1",
             "request": "launch",
             "mainClass": "Classroom_1",

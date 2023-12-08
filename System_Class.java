@@ -24,5 +24,6 @@ public class System_Class {
         System.out.println("before garbage collection = " + Window.getWindows().length);
         System.gc();
         System.out.println("after garbage collection = " + Window.getWindows().length);
+
     }
 }

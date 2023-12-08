@@ -1,4 +1,3 @@
-import java.util.*;
 public class Classroom_1 {
 
     static class Row implements Comparable<Row> {
