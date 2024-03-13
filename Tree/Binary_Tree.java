@@ -507,6 +507,7 @@ public class Binary_Tree {
             50
         */
         BinaryTree tree = new BinaryTree();
+        @SuppressWarnings("static-access")
         Node root = tree.buildTree(nodes);
 
 // Basic Operations on tree
