@@ -1,7 +1,7 @@
 import java.util.*;
 import java.util.LinkedList;
 // Implementing Binary Tree and basic functions
-public class Binary_Tree {
+public class Binary_Tree_1 {
 
     static class Node {
         int data;

@@ -6,6 +6,97 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TestFrame",
+            "request": "launch",
+            "mainClass": "TestFrame",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Geeks",
+            "request": "launch",
+            "mainClass": "Geeks",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Priority_Queue",
+            "request": "launch",
+            "mainClass": "Priority_Queue",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "RajuConlang",
+            "request": "launch",
+            "mainClass": "TCS_CodeVita.RajuConlang",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Graph11",
+            "request": "launch",
+            "mainClass": "Graph.Graph11",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Graph10",
+            "request": "launch",
+            "mainClass": "Graph.Graph10",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Graph9",
+            "request": "launch",
+            "mainClass": "Graph.Graph9",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Graph8",
+            "request": "launch",
+            "mainClass": "Graph.Graph8",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Graph7",
+            "request": "launch",
+            "mainClass": "Graph.Graph7",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Graph6",
+            "request": "launch",
+            "mainClass": "Graph.Graph6",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Graph5",
+            "request": "launch",
+            "mainClass": "Graph.Graph5",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Graph3",
+            "request": "launch",
+            "mainClass": "Graph.Graph3",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Graph4",
+            "request": "launch",
+            "mainClass": "Graph.Graph4",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
             "name": "SevenSegment",
             "request": "launch",
             "mainClass": "SevenSegment",

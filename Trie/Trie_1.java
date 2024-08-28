@@ -1,5 +1,5 @@
 package Trie;
-public class Trie {
+public class Trie_1 {
 
     // The solution for the Word Break Problem is not correct
     static class Node {

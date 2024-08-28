@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-public class Binary_Search_Tree {
+public class Binary_Search_Tree_1 {
     static class Node {
         int data;
         Node left;
@@ -44,17 +44,6 @@ public class Binary_Search_Tree {
     }
 
     // Deleting the B.S.T node
-    public static Node searchForDelete(Node root, int key) {
-        if(root == null) 
-            return null;
-        if(root.data == key)
-            return root;
-        if(root.data > key)
-            return searchForDelete(root.left, key);
-        else
-            return searchForDelete(root.right, key);
-    }
-
     // Utility function to find the Inorder Successor
     public static Node findInorderSuccessor(Node root) {
         while(root.left != null)
