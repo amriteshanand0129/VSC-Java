@@ -1,4 +1,5 @@
-class practice5 {
+// 26th August
+class Pangram {
     public static void missingPanagram(String s) {
         boolean alphabets[] = new boolean[26];
         for(int i=0; i<s.length(); i++) 

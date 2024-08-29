@@ -1,5 +1,5 @@
 import java.util.*;
-class practice4 {
+class Sieve {
     public static void main(String args[]) {
         Scanner in = new Scanner(System.in);
         System.out.print("Enter value of n: ");

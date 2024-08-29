@@ -1,4 +1,4 @@
-public class practice2 {
+public class Rotation {
     public static void reverse(int[] arr, int start, int end) {
         while(start <= end) {
             int temp = arr[start];

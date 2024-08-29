@@ -1,5 +1,5 @@
 import java.util.*;
-public class practice {
+public class Prime {
     public static boolean checkPrime(int n) {
         boolean isPrime = true;
         for(int i=2; i<=Math.sqrt(n); i++) {

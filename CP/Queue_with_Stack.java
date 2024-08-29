@@ -1,5 +1,5 @@
 import java.util.*;
-public class practice3 {
+public class Queue_with_Stack {
     public static void queue(Stack<Integer> stack1, Stack<Integer> stack2, int num) {
         while(!stack1.isEmpty()) 
             stack2.push(stack1.pop());
