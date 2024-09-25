@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Stack_1",
+            "request": "launch",
+            "mainClass": "Stack_1",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Robin_Hood_in_Town",
+            "request": "launch",
+            "mainClass": "Robin_Hood_in_Town",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Robin_Hood_Major_Oak",
+            "request": "launch",
+            "mainClass": "Robin_Hood_Major_Oak",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Robin_Helps",
+            "request": "launch",
+            "mainClass": "Robin_Helps",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Domino_Piling",
+            "request": "launch",
+            "mainClass": "Domino_Piling",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Next_Round",
+            "request": "launch",
+            "mainClass": "Next_Round",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Bit_plus",
+            "request": "launch",
+            "mainClass": "Bit_plus",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Team",
+            "request": "launch",
+            "mainClass": "Team",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Way_to_long_words",
+            "request": "launch",
+            "mainClass": "Codeforces.Way_to_long_words",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Watermelon",
+            "request": "launch",
+            "mainClass": "Codeforces.Watermelon",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
             "name": "TestFrame",
             "request": "launch",
             "mainClass": "TestFrame",
