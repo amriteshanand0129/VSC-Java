@@ -1,3 +1,8 @@
+/**
+ * Codeforces Round 143 Division 2
+ * Team
+ * Link: https://codeforces.com/problemset/problem/231/A
+ */
 import java.util.Scanner;
 
 public class Team {

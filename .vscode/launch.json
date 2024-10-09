@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "GitAutomation",
+            "request": "launch",
+            "mainClass": "GitAutomation",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "CodeforcesOrganizer",
+            "request": "launch",
+            "mainClass": "CodeforcesOrganizer",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Boy_or_Girl",
+            "request": "launch",
+            "mainClass": "Boy_or_Girl",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Beautiful_Matrix",
+            "request": "launch",
+            "mainClass": "Beautiful_Matrix",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Helpful_Maths",
+            "request": "launch",
+            "mainClass": "Helpful_Maths",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Petya_and_Strings",
+            "request": "launch",
+            "mainClass": "Petya_and_Strings",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "Manhattan_Circle",
+            "request": "launch",
+            "mainClass": "Codeforces.D.Manhattan_Circle",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
+            "name": "PrimeFactors",
+            "request": "launch",
+            "mainClass": "PrimeFactors",
+            "projectName": "JAVA_36df265e"
+        },
+        {
+            "type": "java",
             "name": "Stack_1",
             "request": "launch",
             "mainClass": "Stack_1",

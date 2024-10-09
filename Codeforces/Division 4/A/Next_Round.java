@@ -1,3 +1,8 @@
+/**
+ * VK Cup 2012 Qualification Round 
+ * Next Round
+ * Link: https://codeforces.com/problemset/problem/158/A
+ */
 import java.util.Scanner;
 
 public class Next_Round {

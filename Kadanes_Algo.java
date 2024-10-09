@@ -1,4 +1,4 @@
-public class Kadanes {
+public class Kadanes_Algo {
     public static void main(String args[]){
         int numbers[] = {4, 2, 0, 6, 3, 2, 5};
         kadanes(numbers);

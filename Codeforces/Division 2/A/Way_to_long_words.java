@@ -1,3 +1,8 @@
+/**
+ * Codeforces Beta Round 65 Division 2
+ * Way Too Long Words
+ * Link: https://codeforces.com/problemset/problem/71/A
+ */
 import java.util.Scanner;
 
 public class Way_to_long_words {

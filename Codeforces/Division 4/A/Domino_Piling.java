@@ -1,4 +1,9 @@
-import java.util.Scanner;
+/**
+ * Codeforces Beta Round 47
+ * Domino Piling
+ * Link: https://codeforces.com/problemset/problem/50/A
+ */
+import java.util.*;
 
 public class Domino_Piling {
     public static void main(String[] args) {

@@ -1,4 +1,9 @@
-import java.util.Scanner;
+/**
+ * Codeforces Round 173 Division 2
+ * Bit++
+ * Link: https://codeforces.com/problemset/problem/282/A
+ */
+import java.util.*;
 
 public class Bit_plus {
     public static void main(String[] args) {

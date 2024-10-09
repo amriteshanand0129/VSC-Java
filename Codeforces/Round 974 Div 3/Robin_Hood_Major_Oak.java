@@ -1,3 +1,8 @@
+/**
+ * Codeforces Round 974 Division 3
+ * Robin Hood and the Major Oak
+ * Link: https://codeforces.com/problemset/problem/2014/B
+ */
 import java.util.Scanner;
 
 public class Robin_Hood_Major_Oak {

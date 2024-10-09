@@ -1,5 +1,5 @@
 import java.util.*;
-public class Spiralmatrix {
+public class Spiral_Matrix {
     public static ArrayList<Integer> spirallyTraverse(int matrix[][]) {
         int row_start = 0, row_end = matrix.length - 1;
         int col_start = 0, col_end = matrix[0].length - 1;

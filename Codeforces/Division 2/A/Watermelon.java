@@ -1,3 +1,8 @@
+/**
+ * Codeforces Beta Round 952 Division 2
+ * Watermelon
+ * Link: https://codeforces.com/problemset/problem/4/A
+ */
 import java.util.*;
 public class Watermelon {
     public static void main(String args[]) {

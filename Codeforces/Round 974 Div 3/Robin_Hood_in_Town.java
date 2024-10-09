@@ -1,8 +1,9 @@
-import java.util.*;
-
 /**
- * Robin_Hood_in_Town
+ * Codeforces Round 974 Division 3
+ * Robin Hood in Town
+ * Link: https://codeforces.com/problemset/problem/2014/C
  */
+import java.util.*;
 public class Robin_Hood_in_Town {
 
     public static void main(String[] args) {

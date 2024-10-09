@@ -1,3 +1,8 @@
+/**
+ * Codeforces Round 974 Division 3
+ * Robin Helps
+ * Link: https://codeforces.com/problemset/problem/2014/A
+ */
 import java.util.Scanner;
 
 public class Robin_Helps {

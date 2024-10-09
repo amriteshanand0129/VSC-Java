@@ -1,5 +1,7 @@
 /**
- * Beautiful_Matrix
+ * Codeforces Round 161 Division 2
+ * Beautiful Matrix
+ * Link: https://codeforces.com/problemset/problem/263/A
  */
 import java.util.*;
 public class Beautiful_Matrix {
